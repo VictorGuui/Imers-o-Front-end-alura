@@ -1,0 +1,9 @@
+
+Link do repo dessa library:
+- https://github.com/typicode/json-server
+
+1º Comando:
+    npm i json-server -g
+
+2º Comando:
+    json-server --watch api-artists/artists.json --port 3000
